@@ -1,18 +1,22 @@
 {
-	"version": "1.0.0",
-	"description": "The Gr4vy command-line interface",
-	"homepage": "https://github.com/gr4vy/gr4vy-cli",
-	"license": "MIT",
-	"architecture": {
-		"64bit": {
-			"url": "https://github.com/gr4vy/gr4vy-cli/releases/download/v1.0.0/gr4vy_1.0.0_windows_amd64.zip",
-			"bin": "gr4vy.exe",
-			"hash": "ff94119431ad2b14ad2aa563189d020801745160f552d5fa904fe20bb5734cb9"
-		},
-		"arm64": {
-			"url": "https://github.com/gr4vy/gr4vy-cli/releases/download/v1.0.0/gr4vy_1.0.0_windows_arm64.zip",
-			"bin": "gr4vy.exe",
-			"hash": "3d5d7435678abc35b4e73fb396b1eea110ddabcb04a005f6fc4b5ec20a0e479e"
-		}
-	}
+    "version": "1.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/gr4vy/gr4vy-cli/releases/download/v1.2.0/gr4vy_1.2.0_windows_amd64.zip",
+            "bin": [
+                "gr4vy.exe"
+            ],
+            "hash": "0972a936ab7278487dab13c0a62c49b8b8b7985e7f946f71a27f3e9211b821ca"
+        },
+        "arm64": {
+            "url": "https://github.com/gr4vy/gr4vy-cli/releases/download/v1.2.0/gr4vy_1.2.0_windows_arm64.zip",
+            "bin": [
+                "gr4vy.exe"
+            ],
+            "hash": "59038dfa81994e707925bfbe13682c9fcab578874b1e8122161244db81c8d2fb"
+        }
+    },
+    "homepage": "https://github.com/gr4vy/gr4vy-cli",
+    "license": "MIT",
+    "description": "The Gr4vy command-line interface"
 }
