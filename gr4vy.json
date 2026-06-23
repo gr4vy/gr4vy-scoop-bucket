@@ -1,19 +1,19 @@
 {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gr4vy/gr4vy-cli/releases/download/v1.2.1/gr4vy_1.2.1_windows_amd64.zip",
+            "url": "https://github.com/gr4vy/gr4vy-cli/releases/download/v1.2.2/gr4vy_1.2.2_windows_amd64.zip",
             "bin": [
                 "gr4vy.exe"
             ],
-            "hash": "9d80ab439829d86f4e258886b5492858d08792ff3f56cc0b3cc0b52aa798ca96"
+            "hash": "e4dc2a5d0bacf9a666e8cca1fa215bc91fd877d68f79c2eae354dda6faa4faa1"
         },
         "arm64": {
-            "url": "https://github.com/gr4vy/gr4vy-cli/releases/download/v1.2.1/gr4vy_1.2.1_windows_arm64.zip",
+            "url": "https://github.com/gr4vy/gr4vy-cli/releases/download/v1.2.2/gr4vy_1.2.2_windows_arm64.zip",
             "bin": [
                 "gr4vy.exe"
             ],
-            "hash": "f0103217ad6dd453e40eb98aad94edaf79f15cfd85dbb02df61205d7b1744a28"
+            "hash": "057c4503c0d100628bea41231df1ac1034f77f291b01dd89467c9b29661620f2"
         }
     },
     "homepage": "https://github.com/gr4vy/gr4vy-cli",
